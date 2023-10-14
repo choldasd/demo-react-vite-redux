@@ -1,0 +1,7 @@
+
+const sampleMethodName = () => {
+};
+
+export {
+  sampleMethodName
+};
